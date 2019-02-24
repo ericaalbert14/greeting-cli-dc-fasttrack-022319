@@ -7,4 +7,5 @@ def greeting(name)
   puts name.capitalize
 end
 
+
 greeting(name)
